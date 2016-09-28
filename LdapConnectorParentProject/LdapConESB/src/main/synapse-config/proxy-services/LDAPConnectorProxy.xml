@@ -9,7 +9,7 @@
         <disableSSLCertificateChecking>false</disableSSLCertificateChecking>
         <providerUrl>ldaps://ldap.umich.edu:636</providerUrl>
         <securityPrincipal>cn=ITS-wsAuth-McDirApp001,ou=Applications,o=services</securityPrincipal>
-        <securityCredentials>Kj4h2JUr</securityCredentials>
+        <securityCredentials>XXXXXXXX</securityCredentials>
       </ldap.init>
       <log category="DEBUG" level="full"/>
       <ldap.searchEntry>
